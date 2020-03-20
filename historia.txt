@@ -2,4 +2,4 @@ Esta es la historia
 
 Historia de Colombia
 
-Prueba uso de git
+Prueba uso de git, y mejorando el uso de git
