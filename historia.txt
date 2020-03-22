@@ -1,5 +1,5 @@
-Esta es la historia
+Aprendiendo Git y Github
 
-Historia de Colombia
+Un curso dictado por Platzi y de manera didáctica nos enseña los distintos comandos por la consola o terminal
 
-Prueba uso de git, y mejorando el uso de git
+A seguir Aprendiendo
